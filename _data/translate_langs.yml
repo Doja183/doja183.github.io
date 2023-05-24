@@ -32,3 +32,11 @@
 - lang: ar
   img: https://cdn.countryflags.com/thumbs/egypt/flag-400.png
   text: Egypt
+
+- lang: ig
+  img: https://www.countryflags.com/wp-content/uploads/nigeria-flag-png-large.png
+  text: Igbo
+  
+  -lang: ha
+  img: https://www.countryflags.com/wp-content/uploads/nigeria-flag-png-large.png
+  text: Hausa
